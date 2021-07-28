@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/city-tours/static/css/main.5cd67c83.chunk.css",
+    "main.js": "/city-tours/static/js/main.27da4b8a.chunk.js",
+    "main.js.map": "/city-tours/static/js/main.27da4b8a.chunk.js.map",
+    "runtime-main.js": "/city-tours/static/js/runtime-main.8f135762.js",
+    "runtime-main.js.map": "/city-tours/static/js/runtime-main.8f135762.js.map",
+    "static/js/2.15f1a337.chunk.js": "/city-tours/static/js/2.15f1a337.chunk.js",
+    "static/js/2.15f1a337.chunk.js.map": "/city-tours/static/js/2.15f1a337.chunk.js.map",
+    "static/js/3.d5e9aee5.chunk.js": "/city-tours/static/js/3.d5e9aee5.chunk.js",
+    "static/js/3.d5e9aee5.chunk.js.map": "/city-tours/static/js/3.d5e9aee5.chunk.js.map",
+    "index.html": "/city-tours/index.html",
+    "static/css/main.5cd67c83.chunk.css.map": "/city-tours/static/css/main.5cd67c83.chunk.css.map",
+    "static/js/2.15f1a337.chunk.js.LICENSE.txt": "/city-tours/static/js/2.15f1a337.chunk.js.LICENSE.txt",
+    "static/media/logo.55b8858b.png": "/city-tours/static/media/logo.55b8858b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f135762.js",
+    "static/js/2.15f1a337.chunk.js",
+    "static/css/main.5cd67c83.chunk.css",
+    "static/js/main.27da4b8a.chunk.js"
+  ]
+}
