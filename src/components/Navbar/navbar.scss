@@ -1,0 +1,51 @@
+@import "../../index.scss";
+
+.navbar{
+    background: $mainBlack;
+    padding: 0.5rem 1rem;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    height: 7rem;
+}
+ .nav-links{
+//     align-self: center;
+    list-style: none;
+    display: grid;
+    padding: 2rem;
+     grid-template-columns: repeat(3,1fr);//num columns each of size 1 fraction
+     text-align: center;
+    
+}
+@media screen and (max-width:375px){
+    .nav-links{
+        padding-left: 0.25rem;
+        padding-right: 0.25rem;
+        
+        
+        .nav-link{
+            font-size:0.9rem;
+        }
+    
+    }
+        
+}
+
+.nav-link{
+    color: $mainGrey;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: large;
+    font-weight: 400;
+    transition: all 0.3s linear;
+    &:hover{
+        color:$mainGreen;
+        text-decoration: underline;
+    }
+}
+.logo{
+    border-radius: 50%;
+    max-height: 20%;
+}
+.active{
+    color:$mainGreen;
+}
